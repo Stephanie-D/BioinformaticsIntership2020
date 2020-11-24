@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "Randomize the order of the tests within a unittest.TestCase class"
+name = "randomize"
+optional = false
+python-versions = "*"
+version = "0.14"
+
+[metadata]
+content-hash = "191b41c7de3426f50cbe098467f1f79133737bb22f18ce73e704161712cee013"
+python-versions = "^3.8"
+
+[metadata.files]
+randomize = [
+    {file = "randomize-0.14-py2.py3-none-any.whl", hash = "sha256:79c72c1465060e7d22d8fa147fa0452550db83bf0bcf8c0b0694277ebc6f6ff6"},
+    {file = "randomize-0.14.tar.gz", hash = "sha256:fe977435ed8f9786c891a0299c99a710751b748d4ddc23ff85fb5eba73983b6b"},
+]
